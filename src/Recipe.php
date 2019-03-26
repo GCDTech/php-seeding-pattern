@@ -1,6 +1,6 @@
 <?php
 
-namespace Gcd\Seeding\Logic\Shared\Seeding;
+namespace Gcd\Seeding;
 
 /**
  * Recipes contain the flags, data and switches for controlling what a

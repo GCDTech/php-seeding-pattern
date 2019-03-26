@@ -1,6 +1,6 @@
 <?php
 
-namespace Gcd\Seeding\Logic\Shared\Seeding;
+namespace Gcd\Seeding;
 
 use Faker\Factory;
 use Faker\Generator;

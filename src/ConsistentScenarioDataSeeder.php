@@ -1,6 +1,6 @@
 <?php
 
-namespace Gcd\Seeding\Logic\Shared\Seeding;
+namespace Gcd\Seeding;
 
 use Rhubarb\Stem\Custard\ScenarioDataSeeder;
 use Symfony\Component\Console\Output\OutputInterface;
