@@ -17,7 +17,7 @@
   "require": {
     "php": "^7",
     "fzaninotto/faker": "*",
-    "rhubarbphp/module-stem": "^1.8.3",
+    "rhubarbphp/module-stem": "^1.8.4",
     "rhubarbphp/custard": "*"
   }
 }
