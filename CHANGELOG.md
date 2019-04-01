@@ -1,6 +1,10 @@
 Changelog
 =========
 
+### 1.0.3
+
+Added:  Documentation
+
 ### 1.0.2
 
 Fixed:  Make ConsistentScenarioSeeder actually consistent
