@@ -15,7 +15,7 @@
     }
   },
   "require": {
-    "php": "^7",
+    "php": "^8",
     "fzaninotto/faker": "*",
     "rhubarbphp/module-stem": "^1.8.4",
     "rhubarbphp/custard": "*"
